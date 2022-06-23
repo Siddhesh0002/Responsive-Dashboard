@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import useStyles from "./Sidebar.styles";
-import { Button, List, Paper, Text, ThemeIcon } from "@mantine/core";
+import { List, Paper, Text } from "@mantine/core";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faImage } from "@fortawesome/free-solid-svg-icons";
 import { Dashboard } from "./Data";
